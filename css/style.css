@@ -1,0 +1,17 @@
+body, html{
+    margin: 0;
+    width: 100vw;
+    box-sizing: border-box;
+}
+
+.cabecalho{
+    background-color: #5893f4;
+}
+
+.carousel__1slide__imagem{
+    /*background-image: url(slices/mobile/image_rotate.png);*/
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
